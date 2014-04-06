@@ -18,3 +18,4 @@ install zsh
 cask install iterm2
 cask install google-chrome
 cask install dropbox
+cask install sublime-text
