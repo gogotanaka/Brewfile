@@ -19,3 +19,5 @@ cask install iterm2
 cask install google-chrome
 cask install dropbox
 cask install sublime-text
+cask install line
+cask install gyazo
