@@ -13,11 +13,16 @@ install mysql
 install postgresql
 install rbenv
 install ruby-build
-install zsh
+install cmake
+install -v --64-bit openssl
+install readline
 
-cask install iterm2
 cask install google-chrome
 cask install dropbox
 cask install sublime-text
+cask install slack
+
+tap 'komagata/mycask'
+
 cask install line
 cask install gyazo
