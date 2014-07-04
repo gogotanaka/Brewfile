@@ -22,6 +22,7 @@ cask install dropbox
 cask install sublime-text
 cask install slack
 cask install evernote
+cask install skype
 
 tap 'komagata/mycask'
 
